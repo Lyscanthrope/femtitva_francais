@@ -1,0 +1,30 @@
+from: markdown
+# reader: may be used instead of from:
+to: html
+# writer: may be used instead of to:
+
+# leave blank for output to stdout:
+output-file: femtitva_french.html
+# leave blank for input from stdin, use [] for no input:
+input-files: 
+  - femtitva_french.md
+
+# Include options from the specified defaults files.
+# The files will be searched for first in the working directory
+# and then in the defaults subdirectory of the user data directory.
+# The files are included in the same order in which they appear in
+# the list. Options specified in this defaults file always have
+# priority over the included ones.
+
+#template: A4
+standalone: true
+self-contained: false
+
+# metadata values specified here are parsed as literal
+# string text, not markdown:
+
+#pdf-engine: pdflatex
+
+html-q-tags: false
+css:
+- style.css

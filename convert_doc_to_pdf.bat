@@ -1,0 +1,1 @@
+pandoc -d pandoc_pdf_french.yaml
