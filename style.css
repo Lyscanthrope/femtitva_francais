@@ -1,102 +1,131 @@
-
-
-/*General formating*/
+/* General formatting */
 html {
-    max-width: 100%;
-  }
-  
-  body {
-    color: rgb(0, 0, 0);
-    margin: 0 auto;
-    max-width: 48rem;
-    line-height: 1.45;
-    padding: .25rem;
-    background: #fff;
-    font-family: 'Minion Pro';
-    text-align: justify;  
-    text-justify: auto;
-  }
-  
-  b {
-    font-weight: 700
-  }
-
-    h1,h2,h3,h4 {font-family: 'Midnight minutes';page-break-inside:avoid;}
-    h1, h2 {text-align: center;}
-    h1 { font-size : 3.5em; }
-    h2 { font-size : 3em;page-break-after:avoid;}
-    h3 { font-size : 2em; page-break-after:avoid;}
-    h3:before
-    {
-      content:'';
-      display:block;
-      border:2px solid black;
-  }
-
-  hr {
-      color:black;
-      background-color:black;
-  }
-/*Image formating*/
-
-  img[src*='#center'] { 
-    display: block;
-    margin: auto;
+  max-width: 100%;
 }
-img[src*='#mini'] { 
+
+body {
+  color: rgb(0, 0, 0);
+  margin: 0 auto;
+  max-width: 48rem;
+  line-height: 1.45;
+  padding: 0.25rem;
+  background: #fff;
+  font-family: 'EB Garamond', serif;
+  text-align: justify;
+  text-justify: auto;
+}
+
+b {
+  font-weight: 700;
+}
+
+h1 {
+  font-family: 'Joseph Sans Thin', serif;
+}
+
+h2,
+h3,
+h4 {
+  font-family: 'Nova Script', serif;
+  page-break-inside: avoid;
+}
+
+h1,
+h2 {
+  text-align: center;
+}
+
+h1 {
+  font-size: 3.5em;
+}
+
+h2 {
+  font-size: 3em;
+  page-break-before: always;
+}
+
+h3 {
+  font-size: 2em;
+  page-break-after: avoid;
+}
+
+h2:before {
+  content: '';
   display: block;
-  width:  3cm;
+  border: 2px solid black;
 }
-img[src*='#right'] { 
+
+hr {
+  color: black;
+  background-color: black;
+}
+
+/* Image formatting */
+img[src*='#center'] {
+  display: block;
+  margin: auto;
+}
+
+img[src*='#mini'] {
+  display: block;
+  width: 3cm;
+}
+
+img[src*='#right'] {
   padding: 10px;
-  float : right;
-  width:  33%;
+  float: right;
+  width: 33%;
   display: block;
 }
-img[src*='#left'] { 
-  padding: 10px;
-  float : left;
-  width:  33%;
-  display: block;
 
+img[src*='#left'] {
+  padding: 10px;
+  float: left;
+  width: 33%;
+  display: block;
 }
-img[src*='#inframe'] { 
+
+img[src*='#inframe'] {
   padding: 0px;
-  float : none;
-  width:  100%;
+  float: none;
+  width: 100%;
   display: block;
-
 }
 
-/*Block quote*/
-  blockquote {
-    border-left: 8px solid #a5373754;
-    max-width: 40rem;
-    margin-left: 2rem;
-  }
-  
-/*Table formating*/
-    table {
-      border-collapse: collapse;
-      margin: 25px 0;
-      font-size: 0.9em;
-      font-family: sans-serif;
-      min-width: 400px;
-      box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
-      margin-left: auto;
-      margin-right: auto;
-      page-break-inside:avoid;
-  }
-  table thead tr {
-    background-color: #969696;
-    color: #ffffff;
-    text-align: left;
+/* Block quote */
+blockquote {
+  border-left: 8px solid #a5373754;
+  max-width: 40rem;
+  margin-left: 2rem;
 }
+
+/* Table formatting */
+table {
+  border-collapse: collapse;
+  /*margin: 25px 0;*/
+  margin: 10px 0 10px 15px;
+  font-size: 0.9em;
+  font-family: sans-serif;
+  min-width: 400px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+  /*margin-left: auto;
+  margin-right: auto;*/
+  page-break-inside: avoid;
+  float: right;
+}
+
+table thead tr {
+  background-color: #969696;
+  color: #ffffff;
+  text-align: left;
+}
+
 table th,
 table td {
-    padding: 12px 15px;
-    page-break-inside:avoid;
+  padding: 12px 15px;
+  page-break-inside: avoid;
 }
+
 table tbody tr {
   border-bottom: 1px solid #dddddd;
 }
@@ -109,10 +138,20 @@ table tbody tr:last-of-type {
   border-bottom: 2px solid #969696;
 }
 
-/*Custom code*/
-/*Page break*/
-.pagebreak {height:0;page-break-after: always !important; margin:0; border-top:none;}
-/*Frame for image on the right side*/
-.rightframe{
-    width : 33%; float: right; padding : 5px; margin : 5px;clear: none;
- }
+/* Custom code */
+/* Page break */
+.pagebreak {
+  height: 0;
+  page-break-after: always !important;
+  margin: 0;
+  border-top: none;
+}
+
+/* Frame for image on the right side */
+.rightframe {
+  width: 33%;
+  float: right;
+  padding: 5px;
+  margin: 5px;
+  clear: none;
+}

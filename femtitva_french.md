@@ -1,7 +1,12 @@
 <!-- markdownlint-disable MD045 -->
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD036 -->
+
 # Femtitvå
+
+![](./images/logo.jpg)
+
+From Scott Huntington
 
 ## AVANT-PROPOS
 
@@ -11,19 +16,18 @@ Néanmoins, l'innovation engendre l'innovation, et beaucoup des designs les plus
 
 ## TABLE DES MATIÈRES
 
-Industrie .......................... 4
-Cour ................................ 6
-Traître .............................. 8
-Effraction ........................... 9
-Serpent Noir ....................... 10
-Marteau-Piqueur ................... 12
-H.O.D. .............................. 13
+1. Industrie
+2. Cour
+3. Traître
+4. Effraction
+5. Serpent Noir
+6. Marteau-Piqueur
+7. H.O.D.
+8. Virus
+9. Paparazzi
+10. Hache
 
-Virus ............................... 15
-Paparazzi ........................... 17
-Hache ............................... 18
-
-## INDUSTRIE
+## 1. INDUSTRIE
 
 Un jeu de cartes immensément populaire, et l'un de ceux loués pour sa profondeur stratégique et ses options, est RACE FOR THE GALAXY, de Tom Lehmann. Bien que le jeu ait de nombreuses innovations intéressantes, celle qui a retenu mon attention était l'idée que les cartes dans ce jeu ont plusieurs fonctions ; elles peuvent être dépensées comme de l'argent, posées sur la table comme améliorations du tableau du joueur, ou même retournées face cachée comme ressources. Race for the Galaxy est un jeu d'entrée de niveau supérieur, et une iconographie complexe peut effrayer les nouveaux joueurs. En effet, la complexité de chaque carte serait impossible à répliquer dans un jeu de seulement valets et numéros, donc ici, dans INDUSTRIE, un jeu sur la construction rapide d'une ville, seule la décision de quelle fonction d'une carte employer est explorée. Le jeu utilise ce qu'on appelle une boucle de rétroaction positive ; les coups intelligents précoces sont récompensés, et le jeu prend de l'ampleur au fur et à mesure.
 
@@ -56,7 +60,7 @@ Un jeu de cartes immensément populaire, et l'un de ceux loués pour sa profonde
 
 Les logements rapportent double, donc le joueur X obtient 8 points pour les logements, et le joueur Y obtient 6. Comme le joueur X a plus de logements, il obtient également le bonus de 5 points, tandis que le joueur Y obtient 5 points chacun pour avoir plus de bureaux et d'usines. Personne n'a plus de banques, donc le bonus n'est accordé à aucun joueur. Le joueur Y gagne 25 à 20.
 
-## COUR
+## 2. COUR
 
 Le jeu parodié par COUR, 7 WONDERS, est conçu par Antoine Bauza, et est lui-même une réinvention astucieuse d'un élément de MAGIC : THE GATHERING de Richard Garfield. En fait, j'ai même emprunté des éléments pour COUR à un jeu ultérieur de Phil Walker-Harding appelé SUSHI GO, qui est une version simplifiée de 7 WONDERS. Comme je l'ai expliqué dans l'avant-propos, le draft de cartes est quelque chose que l'on voit souvent dans les jeux de cartes à collectionner ou les jeux de société modernes, mais qui n'a (à ma connaissance) jamais été rétroactivement appliqué à un jeu de cartes standard. Les jeux de cartes à collectionner sont tristement célèbres pour avoir des milliers de cartes différentes avec des capacités et des effets spéciaux différents ; COUR réduit cette complexité, mais offre toujours quelques options intéressantes pour le scoring. Les joueurs courtisent les divers nobles alors qu'ils traversent une ville médiévale, les incitant à rejoindre leur cour. Le joueur avec les combinaisons les plus intéressantes de personnes dans sa cour sortira vainqueur à la fin du jeu.
 
@@ -89,7 +93,7 @@ Le jeu parodié par COUR, 7 WONDERS, est conçu par Antoine Bauza, et est lui-m�
 
 Notez le score de chaque joueur sur une feuille de papier. En cas d'égalité concernant le total de points le plus élevé par couleur, partagez les points également entre les joueurs à égalité, en écartant tout reste.
 
-## TRAÎTRE
+## 3. TRAÎTRE
 
 Werewolf (ou parfois appelé Mafia) a toujours été un jeu fantastique pour moi, et un que j'ai beaucoup joué dans mes premières années universitaires. C'est un jeu de deux équipes, mais aux identités inconnues. C'est un mélange intéressant de concepts de design anciens et nouveaux ; la discussion animée et le bluff générés par Werewolf sont très modernes ; tandis que l'élimination des joueurs et le fait de rester assis deviennent de plus en plus rares avec chaque nouveau design. Un jeu de société immensément populaire (mais long) impliquant des traîtres est Battlestar Galactica, de Corey Konieczka. Il place les joueurs sur un vaisseau spatial, essayant de repousser collectivement les dangers, ce qui serait plus facile s'il n'y avait pas un traître parmi eux. J'ai extrait le système ingénieux de sabotage par carte du jeu, et j'ai imaginé TRAÎTRE. De manière similaire, mais ici sur Terre, les joueurs doivent réussir cinq missions avec succès ou succomber à la taupe.
 
@@ -106,7 +110,7 @@ Mélangez les cartes et distribuez-en une à chaque joueur, en retirant les autr
 
 **ACCUSER :** À tout moment, un joueur peut accuser un autre d'être un traître. S'il a raison, l'équipe gagne. Sinon, le traître gagne. S'il n'y avait pas de traître, tout le monde perd. Sinon, le jeu est gagné par l'équipe si elle réussit cinq missions, et gagné par le traître si l'équipe échoue cinq missions.
 
-## EFFRACTION
+## 4. EFFRACTION
 
 Certains des designs les plus prolifiques des dernières décennies proviennent d'équipes de concepteurs. Bruno Faidutti, un auteur français prolifique, et Alan R. Moon (qui réapparaît plus tard dans ce livre) se sont associés en 2005 pour créer un jeu appelé DIAMANT, qui est ensuite apparu sous le nom d'InCAN Gold. Le genre de ce jeu est généralement appelé "Push your Luck", où la chance est atténuée par l'avidité des joueurs pour plus. Pas unlike l'émission de télévision Deal or No Deal, où les joueurs tentent d'obtenir de plus en plus d'argent en ouvrant des mallettes, certaines pour le bien, d'autres pour le mal, InCAN Gold voit les joueurs retourner des cartes pour rassembler des trésors, certains étant des pièges. Notre version, EFFRACTION, reste fidèle à la formule, alors que les joueurs descendent en rappel dans une banque, mettant la main sur autant d'argent que possible avant d'alerter les gardes.
 
@@ -120,11 +124,11 @@ Certains des designs les plus prolifiques des dernières décennies proviennent 
 
 **NOUVEAU TOUR :** Jouez cinq tours, en mélangeant et en repérant à chaque fois. Le gagnant est celui qui a le plus d'argent total.
 
-## SERPENT NOIR
+## 5. SERPENT NOIR
 
 Le jeu TICKET TO RIDE, du designer mentionné précédemment Alan R. Moon, est connu de nombreux joueurs, un peu sombrement, comme un "jeu d'initiation". Il est facile à comprendre, a un ensemble de règles simple, et une structure de tour non compliquée. En effet, c'est l'un des premiers jeux modernes que j'ai joués, et c'est le jeu qui a commencé ma collection toujours croissante. Il implique de collecter des ensembles de cartes à dépenser pour créer des routes de train le long d'un plateau coloré. Il a été honoré de diverses récompenses, et à juste titre. SERPENT NOIR reprend le cadre solide de TICKET TO RIDE et le réduit à une affaire de 52 cartes. Les joueurs posent toujours des voies, bien que dans un cadre plus abstrait.
 
-**MISE EN PLACE :** Placez des cartes face visible sur la table en nombre égal au nombre de joueurs. Ces cartes sont appelées les voies. Si l'une de ces cartes est une carte figure, tirez-en une autre. Distribuez trois cartes à chaque joueur. Prenez les trois premières cartes du jeu et placez-les face visible à côté de la pile de tirage. Ce sont les cartes de tirage ouvertes (ODC).
+**MISE EN PLACE :** Placez des cartes face visible sur la table en nombre égal au nombre de joueurs. Ces cartes sont appelées les voies. Si l'une de ces cartes est une carte figure, tirez-en une autre. Distribuez trois cartes à chaque joueur. Prenez les trois premières cartes du jeu et placez-les face visible à côté de la pile de tirage. Ce sont les cartes de tirage ouvertes (ODC).  ![][ODC]
 
 **LE TOUR :** Chaque joueur peut faire l'une des deux choses suivantes à son tour : tirer ou poser. Lorsqu'il tire, un joueur prend deux cartes (soit parmi les cartes de tirage ouvertes, soit la carte du dessus face cachée du jeu, ou les deux) et les ajoute à sa main. Les cartes prises parmi les cartes de tirage ouvertes sont immédiatement remplacées par une carte du jeu ; c'est-à-dire que les joueurs ont toujours trois cartes de tirage ouvertes parmi lesquelles choisir, même en milieu de tour.
 
@@ -149,7 +153,7 @@ Le jeu TICKET TO RIDE, du designer mentionné précédemment Alan R. Moon, est c
 
 **FIN DE JEU :** Le jeu est terminé lorsqu'un joueur a atteint un nombre de points défini. Pour un jeu court, jouez jusqu'à 30 points. Pour un jeu plus long, jouez jusqu'à 40 points.
 
-## MARTEAU-PIQUEUR
+## 6. MARTEAU-PIQUEUR
 
 Le genre des jeux de stratégie abstraits est sans aucun doute celui qui a l'histoire la plus riche. Des ensembles anciens de Chess, Checkers, Go, ShOGi, et MANCala sont encore découverts par les archéologues, rendant simultanément difficile la détermination d'une date de création, et prouvant l'importance des jeux de société à travers les âges. Les jeux abstraits ont tendance à avoir un ensemble de followers très dévoués : les joueurs peuvent consacrer toute leur vie à un jeu, et dans certaines parties de l'Europe de l'Est, les joueurs d'échecs sont des célébrités, décrochant des contrats publicitaires lucratifs et étant suivis par les paparazzi. Cependant, de nouveaux jeux abstraits, comme Hey, That's My Fish, de l'équipe germano-finlandaise Alvydas Jakeliunas et Günter Cornett, ont également trouvé leur place parmi les poids lourds des jeux abstraits. MARTEAU-PIQUEUR est un analogue assez fidèle de ce jeu, mais emploie un système de scoring à la Dr Reiner Knizia (plus sur le Docteur plus tard).
 
@@ -161,7 +165,7 @@ Le genre des jeux de stratégie abstraits est sans aucun doute celui qui a l'his
 
 **SCORING :** Après que tous les joueurs soient tombés à travers, les joueurs comptent leurs valeurs de points pour chaque couleur. Le joueur avec la valeur de points la plus élevée dans sa couleur la plus basse gagne. En cas d'égalité, vérifiez la couleur suivante la plus basse, etc.
 
-## H.O.D
+## 7. H.O.D
 
 Le grand-père du jeu moderne est sans aucun doute le regretté Sid Sackson (1920-2002). Il était un auteur de jeux prolifique, collectionneur, et a créé des designs qui étaient des décennies en avance sur leur temps. Si un jeu de société prévalent est encore sur le marché, alors il y a aussi un jeu de Sackson qui s'efforce de le surpasser : AQUIRE est sa version beaucoup moins dépendante de la chance de MONOPOLY, BUY WORD est un jeu de type SCRABBLE qui récompense l'anagramme créatif plutôt que la connaissance de tous les mots de deux lettres, et SLEUTH est sa version (à mon avis, clairement supérieure) de CLUE (ou CLUEDO, si vous êtes Australien comme moi). C'est un pur puzzle logique, où les joueurs essaient de résoudre le mystère des bijoux volés. Notre petit "whodunit", HEURE DU DÉCÈS, est de la même veine, mais les joueurs ont chacun leur propre mystère à résoudre.
 
@@ -195,7 +199,7 @@ Si un ou les deux numéros sur les cartes de leur solution correspondent à l'un
 
 **DIFFICULTÉ :** Pour ajuster la difficulté du jeu, ajoutez ou retirez une carte de la table. En ajouter une rendra le jeu plus difficile, et en retirer une le rendra plus facile. Alternativement, vous pouvez donner à certains joueurs un avantage en leur disant l'heure du décès (mais pas la minute). Vous pouvez également créer un "cas compliqué" où les joueurs tirent 2 cartes de chaque pile avant de commencer. Dans ce scénario, au lieu d'une HOD, vous devez simplement découvrir les 4 numéros.
 
-## VIRUS
+## 8. VIRUS
 
 Une chose que certains jeux de société modernes ont en commun est de rediriger le focus des yeux de la table vers les autres joueurs. CA$H 'N GUN$, de Ludovic Maublanc, est un tel jeu. Situé dans ce qui semble être un film de Quentin Tarantino, CA$H 'N GUN$ voit des joueurs rivaux se pointer des pistolets en mousse les uns sur les autres dans une impasse mexicaine. Ce n'est pas tant un jeu sur les pièces (bien que les pistolets soient une belle touche) mais plutôt sur les joueurs, et sur la capacité à les lire. Dans une certaine mesure, il partage des similitudes avec PIERRE-PAPIER-CISEAUX, qui est également un jeu de devinettes simultanées, bien que avec des bluffs et des objectifs plus nuancés. VIRUS tente également de lever les têtes des joueurs, afin de faire passer quelques (proverbiales) germes.
 
@@ -236,7 +240,7 @@ Réinitialisez et jouez trois manches. Celui qui a le plus de points est le gagn
 
 **FIN DE MANCHE POUR 2 JOUEURS :** Le premier joueur à boire quatre potions et à ne pas posséder le virus est le gagnant de la manche. Si un joueur a bu quatre potions mais a le virus, il n'a pas encore gagné jusqu'à ce qu'il l'ait transmis. Le premier joueur à gagner deux manches gagne la partie.
 
-## PAPARAZZI
+## 9. PAPARAZZI
 
 La plus grande célébrité dans le monde moderne des jeux de société est sans doute le Dr Reiner Knizia. Avec plus de 500 jeux publiés et une armoire pleine de récompenses, le docteur est connu pour ses idées simples qui contiennent une profondeur cachée. Il n'est donc pas surprenant, après avoir joué à divers designs de sa création, qu'il ait obtenu son doctorat dans le domaine des mathématiques. Les mécaniques de ses titres ont une précision mathématique ; au point que "knizien" entre dans le vocabulaire de nombreux amateurs. SAMURAI, l'un de ses titres les plus acclamés, traite du placement astucieux de pions sur une carte du Japon. Dans PAPARAZZI, nous essayons de prendre les meilleures photos de ces célèbres cartes figures alors qu'elles sont sur le tapis rouge.
 
@@ -265,7 +269,7 @@ Chaque joueur mélange son propre jeu de cartes et en pioche trois dans sa main.
 | Deux de la même couleur | +2 |
 | Trois de la même couleur | +3 |
 
-## HACHE
+## 10. HACHE
 
 J'espère avoir démontré jusqu'à présent qu'il existe de nombreuses possibilités avec un simple jeu de 52 cartes (le nom de ce livret signifie d'ailleurs 52 en suédois, une langue que j'essaie d'apprendre de manière sporadique). Que ce soit des façons créatives d'utiliser les cartes ou des mécanismes de timing intéressants, il existe une infinité de façons d'utiliser un jeu de cartes. Certaines personnes perfectionnent même leur dextérité avec les cartes ; les lançant avec une précision stupéfiante à des dizaines de mètres dans des pastèques, ou construisant des maisons avec une main ferme. Bien que ce dernier jeu ne soit pas un jeu de dextérité et n'emprunte pas beaucoup à un autre jeu, il pourrait être comparé à FLOWERFALL, de Carl Chudyk, où les joueurs essaient de laisser tomber des cartes d'une certaine hauteur sur d'autres. Il n'y a pas de chute dans HACHE, mais enterrer d'autres symboles est la clé.
 
@@ -276,3 +280,5 @@ J'espère avoir démontré jusqu'à présent qu'il existe de nombreuses possibil
 **CARTES FIGURES :** Lorsqu'un joueur retourne une carte figure, il ne la pose pas. Au lieu de cela, il marque automatiquement 2 points et son tour est terminé.
 
 **FIN DE JEU :** Quand la 10ème carte figure est tirée, le jeu se termine. Le joueur avec le score le plus élevé est le gagnant.
+
+[ODC]: .\\images\\blacksnake.png#right ""
