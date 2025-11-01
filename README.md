@@ -1,4 +1,4 @@
-# Femtitvå - Dépôt de Conversion de Documents
+# Femtitvå - Regles en français
 
 Ce dépôt contient les fichiers sources, les styles et les scripts de configuration nécessaires pour générer le document "Femtitvå" (version française) dans différents formats, principalement PDF et HTML, en utilisant l'outil de conversion de documents universel [Pandoc](https://pandoc.org/).
 
